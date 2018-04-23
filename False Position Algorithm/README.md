@@ -1,1 +1,2 @@
-
+This algorithm contains a function that calculates the approximate root of an input function by using the False Position method.
+For this function to work properly, a function, lower and upper guess, desired error and iterations must be input. If no error or iterations is input, they are defaulted by the code. The minimum inputs must be a function and two guesses bracketing the root. The output for this code is the estimated root, the function evaluated at that root, the approximate relative error, and the amount of iterations used.
